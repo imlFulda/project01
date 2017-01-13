@@ -1,0 +1,55 @@
+Brainstormen
+
++ Simulationen
++ 360 Videos 
++/- Streaming
+
++ Chemische Moleküle (3D, 2D)
++ Ebenen der Simulation: Formelebene, Stoffebene (z.B. als Flüssigkeit)
++ Animationen
++ Maschinen --- Eigenschaften
++ Beispiel: Laser
++ GUI Elemente (Schieberegler)
++ virtuelles Labor (chemisch, mach mal)
++ Steuerung des Ablaufs
++ Timer
++ Fehler analysieren und Feedback
+
++ Interaktives Hypermedia
++ Entscheidungsbäume
++ Zustandsräume
++ Prozessschema, Planungs
++ Papier !!!
+
+Mögliche Themen
+
+- Dozent: wie ist der Umgang mit der Technologie ?
+- Timing bei interaktiven Elementen im 360 
+
+Eher nicht 
+
+- echtes 3D
+- AR
+- Netz ? 
+- interaktive Elemente im 360 Video 
+
+
+Arbeitsplan
+===========
+
+Einarbeitung
+Anforderungserfassung
+
+- Einrichtung der Arbeitsplätze
+  => Vorbereitung des Büros (Tisch, Schlüssel, Schrank)
+  => Drucker ???
+  => 3D Kamera, Kodak Pix Pro, 899,-
+  => 360 fly, 550,- 
+  => Samsung 360, ohne Samsung ?, 360
+
+- Werkzeuge 
+  - Konvertierung und Schnitt
+  
+
+- imlFulda, jan-torsten.milde@informatik.hs-fulda.de, xxxxxProjektXXXX
+
