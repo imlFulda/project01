@@ -1,0 +1,9 @@
+Möglichkeiten
+	- timetriggered (zeitabhängige Aktionen)
+	- möglicher Einfluss des Zuschauers (Cursorbewegungen, Klicks)
+	- Einbindung von HTML5 Elementen (Inputs, Schieberegler, Buttons)
+	- Einbindung geometrischer Figuren / Animationen
+	- Text
+	- Zeitsprünge (Überspringen von bestimmten Sektionen, Erklärungen abhängig von Interaktionen)
+	
+	- Umschauen während des Videos
